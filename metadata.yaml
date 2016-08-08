@@ -1,0 +1,31 @@
+_repo: De-profundis-Episode-Maritime_12451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durand, Charles
+    aliases:
+    - Durand, Charles-Auguste
+    - Carolus d'Harrans
+    birthdate: 1863
+    deathdate: 1907
+    gutenberg_agent_id: '4376'
+    url: http://www.gutenberg.org/2009/agents/4376
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12451'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcc 'PQ'
+- GITenberg
+title: 'De profundis!
+
+  Episode Maritime'
+url: http://www.gutenberg.org/ebooks/12451
